@@ -1,0 +1,49 @@
+.first {
+  background-color: hsl(31, 77%, 52%);
+  padding: 35px;
+  vertical-align: top;
+  border-radius: 10px 0 0 10px;
+}
+.second {
+  background-color: hsl(184, 100%, 22%);
+  padding: 35px;
+  vertical-align: top;
+}
+.third {
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0px 10px 10px 0;
+  padding: 35px;
+  vertical-align: top;
+}
+body {
+  background-color: hsl(0, 0%, 95%);
+}
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  color: hsl(0, 0%, 95%);
+  font-weight: 700;
+}
+p {
+  font-family: "Lexend Deca", sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-weight: 400;
+}
+table {
+  margin-top: 6%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 6%;
+  border-spacing: 0;
+  width: 60%;
+}
+.learn-more {
+  font-family: "Lexend Deca", sans-serif;
+  padding: 10px;
+  background-color: white;
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
+}
+.learn-more:hover {
+  color: aqua;
+}
